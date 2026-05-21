@@ -8,7 +8,7 @@ The ESP32 creates its own Wi-Fi access point. When you connect to it and open th
 ## Features
 - Web-based control panel (best used in landscape mode)
 - Dual motor control for steering and driving
-- A "dolmus" style horn melody
+- A retro style horn melody
 - Emergency stop button to cut power to motors immediately
 
 ## Code Structure
